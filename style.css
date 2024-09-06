@@ -78,3 +78,85 @@ body{
     margin-left: 20px;
     border: 1px solid black;
 }
+.icon-text{
+    width: 86px;
+    height: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 550;
+    line-height: 23.8px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -8px;
+}
+.icons{
+    display: flex;
+    margin-top: 65px;
+    justify-content: center;
+}
+.icon-and-text{
+    display: flex;
+    margin-left: 88px;
+}
+.icon-1{
+    width: 60px;
+    height: 30px;
+}
+.icon-2{
+    width: 50px;
+    height: 49px;
+}
+.icon-3{
+    width: 34px;
+    height: 42px;
+}
+.icon-4{
+    width: 47px;
+    height: 47px;
+}
+.reviews{
+    width: 95px;
+    height: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 550;
+    line-height: 23.8px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    margin-left: 191px;
+    margin-top: -0px;
+}
+.furniture{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+.furniture-1{
+    width: 338px;
+    height: 298px;
+}
+.icon-text-3{
+    width: 86px;
+    height: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 550;
+    line-height: 23.8px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -0px;
+}
+.icon-text-4{
+    width: 86px;
+    height: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 550;
+    line-height: 23.8px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: -0px;
+}
