@@ -160,3 +160,98 @@ body{
     margin-left: 30px;
     margin-top: -0px;
 }
+.cloe{
+    margin-top: 163px;
+    display: flex;
+    justify-content: flex-end;
+}
+.cloe-title{
+    width: 67px;
+    height: 56px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: right;
+    margin-left: 120px;
+}
+.cloe-under-title{
+    width: 192px;
+    height: 38px;
+    font-family: Cardo;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 37.14px;
+    text-align: right;
+    margin-right: 48px;
+    margin-top: -35px;
+}
+.cloe-content{
+    margin-top: 40px;
+}
+.cloe-price-list{
+    display: flex;
+    margin-left: 107px;
+    margin-top: -15px;
+}
+.cloe-from{
+    width: 40px;
+    height: 28px;
+    font-family: Cardo;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27.86px;
+    text-align: right;
+}
+.cloe-dollar{
+    width: 8px;
+    height: 28px;
+    font-family: Cardo;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27.86px;
+    text-align: right;
+}
+.cloe-price{
+    width: 36px;
+    height: 28px;
+    font-family: Cardo;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27.86px;
+    text-align: right;
+}
+.cloe-txt{
+    width: 437px;
+    height: 92px;
+    font-family: Cardo;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.6px;
+    text-align: right;
+    color: #525252;
+}
+.img-cloe{
+    width: 910px;
+    height: 542px;
+}
+.cloe-text{
+    margin-right: 22px;
+}
+.cloe-1-part{
+    margin-left: 219px;
+}
+.cloe-shop{
+    width: 75px;
+    height: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    color: black;
+    margin-left: 335px;
+    position: relative;
+    top: 66px;
+}
