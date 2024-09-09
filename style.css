@@ -454,3 +454,132 @@ body{
     display: flex;
     margin-left: 130px;
 }
+.alba-title{
+    display: flex;
+}
+.alba-title-1{
+    width: 101px;
+    height: 56px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    position: relative;
+    right: 30px;
+}
+.alba-under-title{
+    width: 208px;
+    height: 38px;
+    font-family: 'Cardo', serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 37.14px;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.alba-menu{
+    width: 186px;
+    height: 28px;
+    font-family: 'Cardo', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.2px;
+    text-align: left;
+    color: #54595F;
+    margin-left: 50px;
+}
+.alba-menu-display{
+    display: flex;
+}
+.alba-menu-2{
+    width: 186px;
+    height: 28px;
+    font-family: 'Cardo', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.2px;
+    text-align: left;
+    color: #54595F;
+    position: relative;
+    right: 65px;
+}
+.alba-shop{
+    width: 75px;
+    height: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    color: black;
+    margin-left: 50px;
+    position: relative;
+    top: -10px;
+}
+.alba-logos{
+    position: relative;
+    top: 100px;
+    right: 85px;
+}
+.alba-content{
+    margin-top: 6px;
+}
+.batea{
+    margin-top: 29px;
+    display: flex;
+    justify-content: flex-end;
+}
+.batea-title{
+    display: flex;
+    position: relative;
+    right: 140px;
+}
+.batea-title-1{
+    width: 67px;
+    height: 56px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: right;
+    margin-left: 100px;
+}
+.batea-title-2{
+    width: 67px;
+    height: 56px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: right;
+    position: relative;
+    left: 30px;
+}
+.batea-under-title{
+    width: 192px;
+    height: 38px;
+    font-family: 'Cardo', serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 37.14px;
+    text-align: right;
+    margin-right: 48px;
+    margin-top: -35px;
+}
+.batea-colors{
+    width: 120px;
+    height: 28px;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27.2px;
+    text-align: right;
+    color: #54595F;
+    margin-left: 315px;
+    position: relative;
+    top: 20px;
+}
