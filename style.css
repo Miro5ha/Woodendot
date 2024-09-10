@@ -583,3 +583,147 @@ body{
     position: relative;
     top: 20px;
 }
+.main-footer{
+    margin-top: 41px;
+}
+.main-footer-title{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+}
+.main-footer-title-text{
+    width: 404px;
+    height: 39px;
+    font-family: 'Cardo', serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 39px;
+    text-align: center;
+    color: #3A3A3A;
+}
+.main-footer-title-under-text{
+    width: 497px;
+    height: 34px;
+    font-family: 'Cardo', serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33.43px;
+    text-align: center;
+    margin-top: -24px;
+}
+.insta-image{
+    width: 367px;
+    height: 550px;
+    margin-left: 29px;
+}
+.insta{
+    display: flex;
+    margin-top: 37px;
+    justify-content: center;
+}
+.square{
+    width: 9px;
+    height: 9px;
+    background-color: #000000;
+    margin-left: 5px;
+}
+.squares{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.woodendot-txt{
+    width: 1190px;
+    height: 60px;
+    font-family: 'Cardo', serif;
+    font-size: 19px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+.about-woodendot{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    margin-top: 136px;
+}
+.author{
+    width: 176px;
+    height: 21px;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    margin-top: 37px;
+}
+.square-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; 
+    justify-content: center;
+    margin-top: 53px;
+}
+.square-2{
+    background-color: black;
+}
+.square-2:nth-child(1) {
+    width: 10px;
+    height: 10px;
+    top: -0.33px;
+    left: 660px;
+    gap: 0px;
+    opacity: 0px;
+} 
+.square-2:nth-child(2) {
+    width: 7px;
+    height: 7px;
+    top: 1.67px;
+    left: 677px;
+    gap: 0px;
+    opacity: 0px;
+}
+.square-2:nth-child(3) {
+    width: 3px;
+    height: 3px;
+    top: 3.67px;
+    left: 693px;
+    gap: 0px;
+    opacity: 0px;
+}
+  
+.square-2:nth-child(4) {
+    width: 3px;
+    height: 3px;
+    top: 3.67px;
+    left: 708px;
+    gap: 0px;
+    opacity: 0px;
+} 
+.square-2:nth-child(5) {
+    width: 3px;
+    height: 3px;
+    top: 3.67px;
+    left: 723px;
+    gap: 0px;
+    opacity: 0px;
+}
+.square-2:nth-child(6) {
+    width: 3px;
+    height: 3px;
+    top: 3.67px;
+    left: 738px;
+    gap: 0px;
+    opacity: 0px;
+}
+.square-2:nth-child(7) {
+    width: 3px;
+    height: 3px;
+    top: 3.67px;
+    left: 753px;
+    gap: 0px;
+    opacity: 0px;
+}  
+  
+  
