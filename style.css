@@ -696,10 +696,6 @@ body{
 .square-2:nth-child(4) {
     width: 3px;
     height: 3px;
-    top: 3.67px;
-    left: 708px;
-    gap: 0px;
-    opacity: 0px;
 } 
 .square-2:nth-child(5) {
     width: 3px;
@@ -724,6 +720,85 @@ body{
     left: 753px;
     gap: 0px;
     opacity: 0px;
-}  
-  
-  
+}
+.main-footer-icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 96px;
+    margin-left: 200px;
+}
+.main-footer-icon-1-title{
+    width: 96px;
+    height: 35px;
+    top: -0.52px;
+    left: 114px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Cardo', serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: center;
+    margin-left: 10px;
+}
+.main-footer-icon{
+    width: 360px;
+    height: 370px;
+}
+.main-footer-icon-1-text{
+    width: 283px;
+    height: 56px;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27.86px;
+    text-align: center;
+    position: relative;
+    right: 80px;
+}
+.main-footer-icon-1-article{
+    width: 77px;
+    height: 15px;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: center;
+    color: #000000;
+    margin-left: 20px;
+}
+.main-footer-icon-1-title-2{
+    width: 96px;
+    height: 35px;
+    top: -0.52px;
+    left: 114px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Cardo', serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: center;
+}
+.main-footer-logos-title{
+    width: 298px;
+    height: 26px;
+    font-family: 'Cardo', serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.30000001192092896px;
+    text-align: center;
+    margin-top: 133.48px;
+    color: #454545;
+}
+.main-footer-logos-div{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+}
+.main-footer-logos{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
