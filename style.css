@@ -802,3 +802,135 @@ body{
     display: flex;
     justify-content: center;
 }
+.footer{
+    margin-top: 83px;
+}
+.f-about{
+    width: 80px;
+    height: 21px;
+    font-family: 'Cardo', serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.footer-about-content{
+    margin-top: 45px;
+}
+.f-about-content{
+    width: 64px;
+    height: 20px;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+}
+.footer-about{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+}
+.pl-trees{
+    display: flex;
+    position: relative;
+    right: 60px;
+}
+.footer-about-content{
+    position: relative;
+    right: 70px;
+}
+.footer-titles{
+    display: flex;
+    justify-content: center;
+}
+.f-help-content{
+    width: 64px;
+    height: 20px;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer-offers-title{
+    width: 268px;
+    height: 28px;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27.86px;
+    text-align: center;
+}
+.footer-offers{
+    margin-left: 233px;
+}
+.footer-offers-button{
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: center;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    width: 237px;
+    height: 25px;
+    margin-left: 15px;
+}
+.first-2-footer-images{
+    display: flex;
+    margin-top: 31px;
+    justify-content: center;
+    margin-right: 40px;
+}
+.footer-images-1{
+    margin-left: 40px;
+}
+.footer-images-2{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.end-images{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 50px;
+}
+.footer-end{
+    margin-top: 150px;
+}
+.end-title{
+    margin-left: 300px;
+    width: 199px;
+    height: 23px;
+    font-family: 'Cardo', serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22.29px;
+    text-align: center;
+}
+.end-word{
+    width: 126px;
+    height: 23px;
+    font-family: Cardo;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22.29px;
+    text-align: center;
+}
+.end-words{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 300px;
+    position: relative;
+    bottom: 105px;
+}
+.footer{
+    background-color: #E9E9E9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 50px;
+}
